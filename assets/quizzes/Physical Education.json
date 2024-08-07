@@ -1,0 +1,282 @@
+{
+    "subject": "Physical Education",
+    "quizzes": [
+      {
+        "question": "What is the primary function of the cardiovascular system?",
+        "options": ["Transporting oxygen and nutrients to cells", "Digesting food", "Regulating body temperature", "Producing hormones"],
+        "answer": "Transporting oxygen and nutrients to cells"
+      },
+      {
+        "question": "Which of the following is not a component of physical fitness?",
+        "options": ["Flexibility", "Intelligence", "Muscular strength", "Cardiorespiratory endurance"],
+        "answer": "Intelligence"
+      },
+      {
+        "question": "What is the recommended duration of moderate-intensity aerobic activity for adults per week according to health guidelines?",
+        "options": ["At least 150 minutes", "At least 60 minutes", "At least 30 minutes", "At least 90 minutes"],
+        "answer": "At least 150 minutes"
+      },
+      {
+        "question": "Which muscle group is targeted by squats?",
+        "options": ["Quadriceps", "Biceps", "Hamstrings", "Triceps"],
+        "answer": "Quadriceps"
+      },
+      {
+        "question": "What is the purpose of stretching exercises?",
+        "options": ["Improve flexibility", "Build muscle strength", "Increase heart rate", "Enhance coordination"],
+        "answer": "Improve flexibility"
+      },
+      {
+        "question": "What does BMI stand for?",
+        "options": ["Body Mass Index", "Basal Metabolic Index", "Biomechanical Movement Indicator", "Blood Mass Indicator"],
+        "answer": "Body Mass Index"
+      },
+      {
+        "question": "Which of the following is a dynamic stretching exercise?",
+        "options": ["Leg swings", "Toe touches", "Butterfly stretch", "Standing quad stretch"],
+        "answer": "Leg swings"
+      },
+      {
+        "question": "What does the acronym FITT stand for in exercise prescription?",
+        "options": ["Frequency, Intensity, Time, Type", "Flexibility, Intensity, Training, Technique", "Fatigue, Intensity, Target, Time", "Frequency, Intensity, Target, Time"],
+        "answer": "Frequency, Intensity, Time, Type"
+      },
+      {
+        "question": "Which exercise primarily targets the chest muscles?",
+        "options": ["Bench press", "Deadlift", "Squat", "Pull-up"],
+        "answer": "Bench press"
+      },
+      {
+        "question": "What is the recommended amount of water intake per day for adults?",
+        "options": ["8 glasses (64 ounces)", "4 glasses (32 ounces)", "12 glasses (96 ounces)", "6 glasses (48 ounces)"],
+        "answer": "8 glasses (64 ounces)"
+      },
+      {
+        "question": "What is the recommended frequency of strength training exercises per week for adults?",
+        "options": ["At least 2 days", "At least 3 days", "At least 5 days", "Every day"],
+        "answer": "At least 2 days"
+      },
+      {
+        "question": "Which of the following is a measure of flexibility?",
+        "options": ["Sit and Reach Test", "Bench Press", "1-Mile Run", "Push-Up Test"],
+        "answer": "Sit and Reach Test"
+      },
+      {
+        "question": "What is the purpose of the warm-up phase in a workout?",
+        "options": ["Increase heart rate and blood flow", "Build muscle mass", "Decrease flexibility", "Reduce risk of injury"],
+        "answer": "Increase heart rate and blood flow"
+      },
+      {
+        "question": "What is the term for the maximum amount of force a muscle or muscle group can exert during a single contraction?",
+        "options": ["Muscular strength", "Muscular endurance", "Flexibility", "Cardiovascular endurance"],
+        "answer": "Muscular strength"
+      },
+      {
+        "question": "Which exercise primarily targets the abdominal muscles?",
+        "options": ["Crunches", "Deadlift", "Leg press", "Bench press"],
+        "answer": "Crunches"
+      },
+      {
+        "question": "What is the recommended rest period between sets of strength training exercises?",
+        "options": ["1-2 minutes", "5-10 minutes", "30 seconds", "No rest"],
+        "answer": "1-2 minutes"
+      },
+      {
+        "question": "What is the term for the ability of the heart, lungs, and blood vessels to deliver oxygen to working muscles and tissues?",
+        "options": ["Cardiorespiratory endurance", "Muscular strength", "Flexibility", "Muscular endurance"],
+        "answer": "Cardiorespiratory endurance"
+      },
+      {
+        "question": "Which of the following is a measure of cardiorespiratory fitness?",
+        "options": ["12-minute run", "Vertical jump", "Push-up Test", "Sit and Reach Test"],
+        "answer": "12-minute run"
+      },
+      {
+        "question": "What is the term for the ability of a joint or series of joints to move through a full, pain-free range of motion?",
+        "options": ["Flexibility", "Muscular strength", "Cardiorespiratory endurance", "Muscular endurance"],
+        "answer": "Flexibility"
+      },
+      {
+        "question": "Which of the following is an example of a high-impact aerobic exercise?",
+        "options": ["Running", "Swimming", "Cycling", "Walking"],
+        "answer": "Running"
+      },
+      {
+        "question": "What is the primary energy source used during high-intensity exercise?",
+        "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+        "answer": "Carbohydrates"
+      },
+      {
+        "question": "Which muscle group is targeted by lunges?",
+        "options": ["Glutes", "Biceps", "Deltoids", "Triceps"],
+        "answer": "Glutes"
+      },
+      {
+        "question": "What is the term for the amount of time spent exercising during each session?",
+        "options": ["Duration", "Intensity", "Frequency", "Volume"],
+        "answer": "Duration"
+      },
+      {
+        "question": "Which of the following exercises primarily targets the back muscles?",
+        "options": ["Pull-up", "Squat", "Bench press", "Lunge"],
+        "answer": "Pull-up"
+      },
+      {
+        "question": "What is the recommended amount of physical activity per day for children and adolescents?",
+        "options": ["At least 60 minutes", "At least 30 minutes", "At least 120 minutes", "At least 90 minutes"],
+        "answer": "At least 60 minutes"
+      },
+      {
+        "question": "Which of the following is a measure of muscular endurance?",
+        "options": ["Push-up Test", "Vertical jump", "1-Mile Run", "Sit and Reach Test"],
+        "answer": "Push-up Test"
+      },
+      {
+        "question": "What is the term for the ratio of body fat to lean body mass?",
+        "options": ["Body Composition", "Muscular strength", "Cardiorespiratory endurance", "Flexibility"],
+        "answer": "Body Composition"
+      },
+      {
+        "question": "Which of the following is an example of a compound exercise?",
+        "options": ["Squat", "Bicep Curl", "Tricep Extension", "Lateral Raise"],
+        "answer": "Squat"
+      },
+      {
+        "question": "What is the recommended rest period between aerobic workouts?",
+        "options": ["At least 24 hours", "At least 48 hours", "At least 72 hours", "No rest needed"],
+        "answer": "At least 24 hours"
+      },
+      {
+        "question": "Which exercise primarily targets the quadriceps muscles?",
+        "options": ["Leg press", "Bench press", "Crunches", "Pull-up"],
+        "answer": "Leg press"
+      },
+      {
+        "question": "What is the term for the ability to sustain prolonged, repetitive muscle contractions?",
+        "options": ["Muscular endurance", "Muscular strength", "Flexibility", "Cardiorespiratory endurance"],
+        "answer": "Muscular endurance"
+      },
+      {
+        "question": "Which of the following is a benefit of regular physical activity?",
+        "options": ["Improved mood", "Decreased energy levels", "Decreased flexibility", "Increased risk of chronic diseases"],
+        "answer": "Improved mood"
+      },
+      {
+        "question": "What is the term for the range of motion available at a joint or group of joints during passive movement?",
+        "options": ["Range of Motion", "Flexibility", "Mobility", "Strength"],
+        "answer": "Range of Motion"
+      },
+      {
+        "question": "Which muscle group is targeted by push-ups?",
+        "options": ["Pectorals", "Hamstrings", "Quadriceps", "Deltoids"],
+        "answer": "Pectorals"
+      },
+      {
+        "question": "What is the term for the body's ability to return to its pre-exercise state following a workout?",
+        "options": ["Recovery", "Cool-down", "Hydration", "Restoration"],
+        "answer": "Recovery"
+      },
+      {
+        "question": "Which of the following is a measure of agility?",
+        "options": ["Shuttle run", "Vertical jump", "Push-up Test", "Sit and Reach Test"],
+        "answer": "Shuttle run"
+      },
+      {
+        "question": "What is the term for the number of times a particular exercise is performed?",
+        "options": ["Repetition", "Frequency", "Volume", "Duration"],
+        "answer": "Repetition"
+      },
+      {
+        "question": "Which exercise primarily targets the deltoid muscles?",
+        "options": ["Shoulder Press", "Deadlift", "Leg press", "Pull-up"],
+        "answer": "Shoulder Press"
+      },
+      {
+        "question": "What is the term for the body's ability to perform daily activities with vigor and without undue fatigue?",
+        "options": ["Physical Fitness", "Endurance", "Flexibility", "Strength"],
+        "answer": "Physical Fitness"
+      },
+      {
+        "question": "Which of the following is an example of a static stretching exercise?",
+        "options": ["Hamstring Stretch", "Jumping Jacks", "Walking Lunges", "High Knees"],
+        "answer": "Hamstring Stretch"
+      },
+      {
+        "question": "What is the term for the amount of weight lifted during an exercise session?",
+        "options": ["Load", "Intensity", "Volume", "Frequency"],
+        "answer": "Load"
+      },
+      {
+        "question": "Which muscle group is targeted by bicep curls?",
+        "options": ["Biceps", "Quadriceps", "Pectorals", "Hamstrings"],
+        "answer": "Biceps"
+      },
+      {
+        "question": "What is the term for the ability of a muscle or muscle group to perform repeated contractions over time without fatigue?",
+        "options": ["Muscular endurance", "Muscular strength", "Flexibility", "Cardiorespiratory endurance"],
+        "answer": "Muscular endurance"
+      },
+      {
+        "question": "Which of the following is a benefit of regular cardiovascular exercise?",
+        "options": ["Improved heart health", "Decreased bone density", "Decreased lung capacity", "Increased risk of heart disease"],
+        "answer": "Improved heart health"
+      },
+      {
+        "question": "What is the term for the point during exercise when muscles are fully contracted?",
+        "options": ["Concentric phase", "Eccentric phase", "Isometric phase", "Peak contraction"],
+        "answer": "Peak contraction"
+      },
+      {
+        "question": "Which of the following is a measure of balance?",
+        "options": ["Single-leg balance test", "Sit and Reach Test", "12-minute run", "Push-up Test"],
+        "answer": "Single-leg balance test"
+      },
+      {
+        "question": "What is the term for the gradual increase in exercise intensity to prepare the body for more vigorous activity?",
+        "options": ["Warm-up", "Cool-down", "Recovery", "Peak contraction"],
+        "answer": "Warm-up"
+      },
+      {
+        "question": "Which exercise primarily targets the hamstrings muscles?",
+        "options": ["Deadlift", "Bench press", "Pull-up", "Shoulder press"],
+        "answer": "Deadlift"
+      },
+      {
+        "question": "What is the term for the ability of a muscle to exert maximal force against resistance?",
+        "options": ["Muscular strength", "Muscular endurance", "Flexibility", "Cardiorespiratory endurance"],
+        "answer": "Muscular strength"
+      },
+      {
+        "question": "Which of the following is an example of a plyometric exercise?",
+        "options": ["Box jumps", "Walking lunges", "Tricep dips", "Bicep curls"],
+        "answer": "Box jumps"
+      },
+      {
+        "question": "What is the term for the amount of oxygen consumed by the body during exercise?",
+        "options": ["VO2 max", "Anaerobic threshold", "Resting metabolic rate", "Cardiorespiratory endurance"],
+        "answer": "VO2 max"
+      },
+      {
+        "question": "Which muscle group is targeted by tricep dips?",
+        "options": ["Triceps", "Quadriceps", "Pectorals", "Hamstrings"],
+        "answer": "Triceps"
+      },
+      {
+        "question": "What is the term for the ratio of lean body mass to fat mass in the body?",
+        "options": ["Body composition", "Muscular strength", "Cardiorespiratory endurance", "Flexibility"],
+        "answer": "Body composition"
+      },
+      {
+        "question": "Which of the following is a measure of power?",
+        "options": ["Vertical jump", "Sit and Reach Test", "Push-up Test", "12-minute run"],
+        "answer": "Vertical jump"
+      },
+      {
+        "question": "What is the term for the maximum amount of oxygen the body can use during intense exercise?",
+        "options": ["VO2 max", "Anaerobic threshold", "Resting metabolic rate", "Cardiorespiratory endurance"],
+        "answer": "VO2 max"
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,303 @@
+{
+    "subject": "Physics",
+    "quizzes": [
+      {
+            "question": "What is the SI unit of force?",
+            "options": ["Newton", "Joule", "Watt", "Pascal"],
+            "answer": "Newton"
+      },
+      {
+            "question": "What is the acceleration due to gravity on Earth?",
+            "options": ["9.8 m/s^2", "10 m/s^2", "8.5 m/s^2", "11.2 m/s^2"],
+            "answer": "9.8 m/s^2"
+      },
+      {
+            "question": "Which scientist formulated the laws of motion?",
+            "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+            "answer": "Isaac Newton"
+      },
+      {
+            "question": "What is the formula for calculating kinetic energy?",
+            "options": ["1/2 mv^2", "mgh", "F=ma", "P=IV"],
+            "answer": "1/2 mv^2"
+      },
+      {
+            "question": "Which type of energy is stored in an object due to its position?",
+            "options": ["Potential energy", "Kinetic energy", "Thermal energy", "Electric energy"],
+            "answer": "Potential energy"
+      },
+
+    {
+            "question": "What is the SI unit of measurement for time?",
+            "options": ["Second", "Meter", "Kilogram", "Coulomb"],
+            "answer": "Second"
+    },
+   {
+          "question": "What is the SI unit of measurement for length?",
+          "options": ["Meter", "Second", "Kilogram", "Newton"],
+          "answer": "Meter"
+    },
+    {
+          "question": "What is the SI unit of measurement for mass?",
+          "options": ["Kilogram", "Second", "Meter", "Newton"],
+          "answer": "Kilogram"
+    },
+    {
+          "question": "What is the SI unit of measurement for electric current?",
+          "options": ["Ampere", "Volt", "Ohm", "Coulomb"],
+          "answer": "Ampere"
+    },
+    {
+          "question": "What is the SI unit of measurement for temperature?",
+          "options": ["Kelvin", "Celsius", "Fahrenheit", "Joule"],
+          "answer": "Kelvin"
+    },
+    {
+          "question": "What is the SI unit of measurement for luminous intensity?",
+          "options": ["Candela", "Lumen", "Lux", "Watt"],
+          "answer": "Candela"
+    },
+    {
+          "question": "What is the SI unit of measurement for amount of substance?",
+          "options": ["Mole", "Gram", "Liter", "Pascal"],
+          "answer": "Mole"
+    },
+    {
+          "question": "What is the acceleration due to gravity on the surface of Earth?",
+          "options": ["9.81 m/s²", "10.00 m/s²", "9.20 m/s²", "8.00 m/s²"],
+          "answer": "9.81 m/s²"
+    },
+    {
+          "question": "What is the speed of light in a vacuum?",
+          "options": ["299,792,458 meters per second", "300,000,000 meters per second", "288,000,000 meters per second", "310,000,000 meters per second"],
+          "answer": "299,792,458 meters per second"
+    },
+    {
+          "question": "What is the formula to calculate kinetic energy?",
+          "options": ["(1/2) * mass * velocity^2", "mass * gravity * height", "mass * velocity", "mass * acceleration"],
+          "answer": "(1/2) * mass * velocity^2"
+    },
+    {
+          "question": "What is Newton's first law of motion?",
+          "options": ["An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.", "Force equals mass times acceleration.", "For every action, there is an equal and opposite reaction.", "The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass."],
+          "answer": "An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force."
+    },
+    {
+          "question": "What is Newton's second law of motion?",
+          "options": ["Force equals mass times acceleration.", "An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.", "For every action, there is an equal and opposite reaction.", "The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass."],
+          "answer": "Force equals mass times acceleration."
+    
+    },
+    {
+          "question": "What is Newton's third law of motion?",
+          "options": ["For every action, there is an equal and opposite reaction.", "An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.", "Force equals mass times acceleration.", "The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass."],
+          "answer": "For every action, there is an equal and opposite reaction."
+    },
+    {
+          "question": "What is the formula to calculate gravitational force?",
+          "options": ["G * (m1 * m2) / r^2", "m1 * m2 * a", "F = m * g", "(1/2) * m * v^2"],
+          "answer": "G * (m1 * m2) / r^2"
+    },
+    {
+          "question": "What is the SI unit of measurement for force?",
+          "options": ["Newton", "Joule", "Watt", "Pascal"],
+          "answer": "Newton"
+    },
+    {
+          "question": "What is the formula to calculate work?",
+          "options": ["Force * distance * cos(θ)", "Mass * velocity^2", "(1/2) * mass * velocity^2", "Force * time"],
+          "answer": "Force * distance * cos(θ)"
+    },
+    {
+          "question": "What is the SI unit of measurement for work and energy?",
+          "options": ["Joule", "Newton", "Watt", "Pascal"],
+          "answer": "Joule"
+    },
+    {
+          "question": "What is the formula to calculate power?",
+          "options": ["Work / time", "Force * distance", "Mass * velocity", "(1/2) * mass * velocity^2"],
+          "answer": "Work / time"
+    },
+    {
+          "question": "What is the SI unit of measurement for power?",
+          "options": ["Watt", "Joule", "Newton", "Pascal"],
+          "answer": "Watt"
+    },
+    {
+          "question": "What is the formula to calculate momentum?",
+          "options": ["Mass * velocity", "(1/2) * mass * velocity^2", "Force * time", "Work / time"],
+          "answer": "Mass * velocity"
+    },
+    {
+          "question": "What is the SI unit of measurement for momentum?",
+          "options": ["Kilogram meter per second", "Newton", "Joule", "Watt"],
+          "answer": "Kilogram meter per second"
+    },
+    {
+          "question": "What is the formula to calculate impulse?",
+          "options": ["Force * time", "Mass * velocity", "Work / time", "(1/2) * mass * velocity^2"],
+          "answer": "Force * time"
+    },
+    {
+          "question": "What is the SI unit of measurement for impulse?",
+          "options": ["Newton second", "Joule", "Kilogram meter per second", "Watt"],
+          "answer": "Newton second"
+    },
+    {
+          "question": "What is the formula to calculate pressure?",
+          "options": ["Force / area", "Mass * velocity", "(1/2) * mass * velocity^2", "Work / time"],
+          "answer": "Force / area"
+    },
+    {
+          "question": "What is the SI unit of measurement for pressure?",
+          "options": ["Pascal", "Newton", "Joule", "Watt"],
+          "answer": "Pascal"
+    },
+    {
+          "question": "What is the SI unit of measurement for density?",
+          "options": ["Kilogram per cubic meter", "Newton", "Joule", "Watt"],
+          "answer": "Kilogram per cubic meter"
+    },
+    {
+          "question": "What is the formula to calculate density?",
+          "options": ["Mass / volume", "Force / area", "Work / time", "(1/2) * mass * velocity^2"],
+          "answer": "Mass / volume"
+    },
+    {
+          "question": "What is the formula to calculate buoyant force?",
+          "options": ["Density of fluid * volume displaced * acceleration due to gravity", "Mass * velocity", "(1/2) * mass * velocity^2", "Work / time"],
+          "answer": "Density of fluid * volume displaced * acceleration due to gravity"
+    },
+    {
+          "question": "What is the SI unit of measurement for buoyant force?",
+          "options": ["Newton", "Pascal", "Joule", "Kilogram meter per second"],
+          "answer": "Newton"
+    },
+    {
+          "question": "What is the formula to calculate torque?",
+          "options": ["Force * distance * sin(θ)", "Mass * velocity", "(1/2) * mass * velocity^2", "Work / time"],
+          "answer": "Force * distance * sin(θ)"
+    },
+    {
+          "question": "What is the SI unit of measurement for torque?",
+          "options": ["Newton meter", "Joule", "Kilogram meter per second", "Watt"],
+          "answer": "Newton meter"
+    },
+    {
+          "question": "What is the formula to calculate angular momentum?",
+          "options": ["Mass * velocity * radius", "Force * distance * sin(θ)", "(1/2) * mass * velocity^2", "Work / time"],
+          "answer": "Mass * velocity * radius"
+    },
+    {
+          "question": "What is the SI unit of measurement for angular momentum?",
+          "options": ["Kilogram meter squared per second", "Newton meter", "Joule", "Watt"],
+          "answer": "Kilogram meter squared per second"
+    },
+    {
+          "question": "What is the formula to calculate electric charge?",
+          "options": ["Current * time", "Voltage / resistance", "Capacitance * voltage", "Force / area"],
+          "answer": "Current * time"
+    },
+    {
+          "question": "What is the SI unit of measurement for electric charge?",
+          "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+          "answer": "Coulomb"
+    },
+    {
+          "question": "What is Coulomb's law?",
+          "options": ["The electric force between two point charges is directly proportional to the product of their magnitudes and inversely proportional to the square of the distance between them.", "The force of attraction or repulsion between two point charges is directly proportional to the magnitude of the charges and inversely proportional to the distance between them.", "The electromotive force between two points in a circuit is directly proportional to the resistance and the current flowing through the circuit.", "The voltage drop across a resistor in a circuit is directly proportional to the current flowing through it."],
+          "answer": "The electric force between two point charges is directly proportional to the product of their magnitudes and inversely proportional to the square of the distance between them."
+    },
+    {
+          "question": "What is the formula to calculate electric field intensity?",
+          "options": ["Force / charge", "Charge / distance", "Voltage / resistance", "Capacitance * voltage"],
+          "answer": "Force / charge"
+    },
+    {
+          "question": "What is the SI unit of measurement for electric field intensity?",
+          "options": ["Newton per Coulomb", "Coulomb", "Volt per meter", "Ohm"],
+          "answer": "Newton per Coulomb"
+    },
+    {
+          "question": "What is the formula to calculate electric potential energy?",
+          "options": ["Charge * voltage", "Current * time", "Capacitance * voltage", "Force * distance"],
+          "answer": "Charge * voltage"
+    },
+    {
+          "question": "What is the SI unit of measurement for electricpotential energy?",
+          "options": ["Joule", "Coulomb", "Volt", "Ohm"],
+          "answer": "Joule"
+    },
+    {
+          "question": "What is Ohm's law?",
+          "options": ["The current flowing through a conductor between two points is directly proportional to the voltage across the two points.", "The resistance of a conductor is directly proportional to the current flowing through it.", "The voltage drop across a resistor in a circuit is directly proportional to the current flowing through it.", "The electromotive force between two points in a circuit is directly proportional to the resistance and the current flowing through the circuit."],
+          "answer": "The current flowing through a conductor between two points is directly proportional to the voltage across the two points."
+    },
+    {
+          "question": "What is the formula to calculate electric power?",
+          "options": ["Voltage * current", "Voltage / current", "Current * resistance", "Resistance / current"],
+          "answer": "Voltage * current"
+    },
+    {
+          "question": "What is the SI unit of measurement for electric power?",
+          "options": ["Watt", "Joule", "Coulomb", "Volt"],
+          "answer": "Watt"
+    },
+    {
+          "question": "What is the formula to calculate electric resistance?",
+          "options": ["Voltage / current", "Current * time", "Capacitance * voltage", "Force / area"],
+          "answer": "Voltage / current"
+    },
+    {
+          "question": "What is the SI unit of measurement for electric resistance?",
+          "options": ["Ohm", "Volt", "Ampere", "Watt"],
+          "answer": "Ohm"
+    },
+   {
+          "question": "What is the formula to calculate capacitance?",
+          "options": ["Charge / voltage", "Voltage / current", "Current * time", "Force / area"],
+          "answer": "Charge / voltage"
+    },
+    {
+          "question": "What is the SI unit of measurement for capacitance?",
+          "options": ["Farad", "Coulomb", "Volt", "Ohm"],
+          "answer": "Farad"
+    },
+    {
+          "question": "What is the formula to calculate magnetic field strength?",
+          "options": ["Force / charge", "Charge / distance", "Voltage / resistance", "Magnetic force / length"],
+          "answer": "Force / charge"    
+    },
+    {
+          "question": "What is the SI unit of measurement for magnetic field strength?",
+          "options": ["Tesla", "Newton", "Watt", "Pascal"],
+          "answer": "Tesla"
+    },
+    {
+          "question": "What is the formula to calculate magnetic flux?",
+          "options": ["Magnetic field strength * area * cosine of the angle", "Magnetic field strength / area", "Magnetic force / length", "Work / time"],
+          "answer": "Magnetic field strength * area * cosine of the angle"
+    },
+    {
+          "question": "What is the SI unit of measurement for magnetic flux?",
+          "options": ["Weber", "Tesla", "Newton", "Pascal"],
+          "answer": "Weber"
+    },
+    {
+          "question": "What is Faraday's law of electromagnetic induction?",
+          "options": ["The induced electromotive force in any closed circuit is equal to the rate of change of the magnetic flux through the circuit.", "The electromotive force between two points in a circuit is directly proportional to the resistance and the current flowing through the circuit.", "The voltage drop across a resistor in a circuit is directly proportional to the current flowing through it.", "The current flowing through a conductor between two points is directly proportional to the voltage across the two points."],
+          "answer": "The induced electromotive force in any closed circuit is equal to the rate of change of the magnetic flux through the circuit."
+    },
+    {
+          "question": "What is the formula to calculate electromagnetic force?",
+          "options": ["Charge * velocity * magnetic field strength", "Force / charge", "Magnetic force / length", "Work / time"],
+          "answer": "Charge * velocity * magnetic field strength"
+    },
+    {
+          "question": "What is the SI unit of measurement for electromagnetic force?",
+          "options": ["Newton", "Coulomb", "Tesla", "Joule"],
+          "answer": "Newton"
+    }       
+    ]
+  }
+  

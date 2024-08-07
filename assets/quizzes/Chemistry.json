@@ -1,0 +1,546 @@
+{
+    "subject": "Chemistry",
+    "quizzes": [
+    {
+            "question": "What is the chemical symbol for gold?",
+            "options": ["Au", "Ag", "G", "Go"],
+            "answer": "Au"
+    },
+    {
+            "question": "Which element has the chemical symbol 'Na'?",
+            "options": ["Sodium", "Nitrogen", "Nickel", "Neon"],
+            "answer": "Sodium"
+    },
+    {
+            "question": "What is the chemical formula for water?",
+            "options": ["H2O", "CO2", "O2", "H2SO4"],
+            "answer": "H2O"
+    },
+    {
+            "question": "What is the process of a substance changing from a solid directly to a gas called?",
+            "options": ["Sublimation", "Evaporation", "Condensation", "Freezing"],
+            "answer": "Sublimation"
+    },
+    {
+            "question": "What is the pH value of pure water?",
+            "options": ["7", "8", "6", "9"],
+            "answer": "7"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "G", "Go"],
+        "answer": "Au"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": ["Ag", "Au", "Si", "S"],
+        "answer": "Ag"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": ["Fe", "Ir", "In", "Fr"],
+        "answer": "Fe"
+    },
+    {
+        "question": "What is the chemical symbol for copper?",
+        "options": ["Cu", "Co", "Cp", "C"],
+        "answer": "Cu"
+    },
+    {
+        "question": "What is the chemical symbol for lead?",
+        "options": ["Pb", "Ld", "Pl", "P"],
+        "answer": "Pb"
+    },
+    {
+        "question": "What is the chemical symbol for sodium?",
+        "options": ["Na", "No", "Nu", "Ne"],
+        "answer": "Na"
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "options": ["K", "P", "Pt", "Po"],
+        "answer": "K"
+    },
+    {
+        "question": "What is the chemical symbol for helium?",
+        "options": ["He", "H", "Hy", "Ha"],
+        "answer": "He"
+    },
+    {
+        "question": "What is the chemical symbol for oxygen?",
+        "options": ["O", "Om", "Op", "Os"],
+        "answer": "O"
+    },
+    {
+        "question": "What is the chemical symbol for carbon?",
+        "options": ["C", "Co", "Ca", "Cb"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the chemical symbol for nitrogen?",
+        "options": ["N", "Ni", "Na", "Ne"],
+        "answer": "N"
+    },
+    {
+        "question": "What is the chemical symbol for hydrogen?",
+        "options": ["H", "He", "Hy", "Ho"],
+        "answer": "H"
+    },
+    {
+        "question": "What is the chemical symbol for sulfur?",
+        "options": ["S", "Su", "Sl", "Sm"],
+        "answer": "S"
+    },
+    {
+        "question": "What is the chemical symbol for phosphorus?",
+        "options": ["P", "Po", "Pt", "Ps"],
+        "answer": "P"
+    },
+    {
+        "question": "What is the chemical symbol for magnesium?",
+        "options": ["Mg", "M", "Ma", "Mn"],
+        "answer": "Mg"
+    },
+    {
+        "question": "What is the chemical symbol for calcium?",
+        "options": ["Ca", "Cl", "Ce", "Cm"],
+        "answer": "Ca"
+    },
+    {
+        "question": "What is the chemical symbol for chlorine?",
+        "options": ["Cl", "Ce", "Cr", "Cn"],
+        "answer": "Cl"
+    },
+    {
+        "question": "What is the chemical symbol for fluorine?",
+        "options": ["F", "Fl", "Fu", "Fe"],
+        "answer": "F"
+    },
+    {
+        "question": "What is the chemical symbol for lithium?",
+        "options": ["Li", "Lt", "Lh", "La"],
+        "answer": "Li"
+    },
+    {
+        "question": "What is the chemical symbol for boron?",
+        "options": ["B", "Br", "Bo", "Ba"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the chemical symbol for barium?",
+        "options": ["Ba", "Bm", "Br", "Bu"],
+        "answer": "Ba"
+    },
+    {
+        "question": "What is the chemical symbol for bromine?",
+        "options": ["Br", "B", "Be", "Bo"],
+        "answer": "Br"
+    },
+    {
+        "question": "What is the chemical symbol for iodine?",
+        "options": ["I", "Io", "In", "Id"],
+        "answer": "I"
+    },
+    {
+        "question": "What is the chemical symbol for radium?",
+        "options": ["Ra", "Rd", "Rm", "Rt"],
+        "answer": "Ra"
+    },
+    {
+        "question": "What is the chemical symbol for radon?",
+        "options": ["Rn", "Ra", "Rd", "Ro"],
+        "answer": "Rn"
+    },
+    {
+        "question": "What is the chemical symbol for xenon?",
+        "options": ["Xe", "X", "Xn", "Xm"],
+        "answer": "Xe"
+    },
+    {
+        "question": "What is the chemical symbol for argon?",
+        "options": ["Ar", "Ag", "An", "Am"],
+        "answer": "Ar"
+    },
+    {
+        "question": "What is the chemical symbol for krypton?",
+        "options": ["Kr", "Kp", "Kt", "Ko"],
+        "answer": "Kr"
+    },
+    {
+        "question": "What is the chemical symbol for neon?",
+        "options": ["Ne", "N", "Na", "Nu"],
+        "answer": "Ne"
+    },
+    {
+        "question": "What is the chemical symbol for calcium oxide?",
+        "options": ["CaO", "CO", "Ca2O", "Ca2O2"],
+        "answer": "CaO"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "HO", "O2H", "H"],
+        "answer": "H2O"
+    },
+    {
+        "question": "What is the chemical formula for carbon dioxide?",
+        "options": ["CO2", "CO", "C2O", "C2O2"],
+        "answer": "CO2"
+    },
+    {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "options": ["H2SO4", "HSO4", "SO4", "H2S"],
+        "answer": "H2SO4"
+    },
+    {
+        "question": "What is the chemical formula for hydrochloric acid?",
+        "options": ["HCl", "H2O", "HClO", "H2CO3"],
+        "answer": "HCl"
+    },
+    {
+        "question": "What is the chemical formula for sodium chloride?",
+        "options": ["NaCl", "Na2Cl", "NaCl2", "SNaCl"],
+        "answer": "NaCl"
+    },
+    {
+        "question": "What is the chemical formula for ammonia?",
+        "options": ["NH3", "NH4", "NH2", "N2H6"],
+        "answer": "NH3"
+    },
+    {
+        "question": "What is the chemical formula for methane?",
+        "options": ["CH4", "C2H6", "C3H8", "C4H10"],
+        "answer": "CH4"
+    },
+    {
+        "question": "What is the chemical formula for ethylene?",
+        "options": ["C2H4", "C3H6", "C4H8", "C5H10"],
+        "answer": "C2H4"
+    },
+    {
+        "question": "What is the chemical formula for ethane?",
+        "options": ["C2H6", "C3H8", "C4H10", "C5H12"],
+        "answer": "C2H6"
+    },
+    {
+        "question": "What is the chemical formula for propane?",
+        "options": ["C3H8", "C2H6", "C4H10", "C5H12"],
+        "answer": "C3H8"
+    },
+    {
+        "question": "What is the chemical formula for butane?",
+        "options": ["C4H10", "C2H6", "C3H8", "C5H12"],
+        "answer": "C4H10"
+    },
+    {
+        "question": "What is the chemical formula for hydrogen peroxide?",
+        "options": ["H2O2", "HO2", "H2O", "H"],
+        "answer": "H2O2"
+    },
+    {
+        "question": "What is the chemical formula for nitric acid?",
+        "options": ["HNO3", "HNO2", "NO3", "H2NO3"],
+        "answer": "HNO3"
+    },
+    {
+        "question": "What is the chemical formula for acetic acid?",
+        "options": ["CH3COOH", "CH3COO", "C2H4O2", "C2H5OH"],
+        "answer": "CH3COOH"
+    },
+    {
+        "question": "What is the chemical formula for sulfur dioxide?",
+        "options": ["SO2", "SO", "SO3", "H2SO3"],
+        "answer": "SO2"
+    },
+    {
+        "question": "What is the chemical formula for sodium hydroxide?",
+        "options": ["NaOH", "Na2OH", "HNaO", "Na2O"],
+        "answer": "NaOH"
+    },
+    {
+        "question": "What is the chemical formula for potassium hydroxide?",
+        "options": ["KOH", "K2OH", "HKO", "K2O"],
+        "answer": "KOH"
+    },
+    {
+        "question": "What is the chemical formula for calcium hydroxide?",
+        "options": ["Ca(OH)2", "CaOH", "Ca2OH", "H2CaO2"],
+        "answer": "Ca(OH)2"
+    },
+    {
+        "question": "What is the chemical formula for carbonic acid?",
+        "options": ["H2CO3", "HCO3", "CO3", "H2O"],
+        "answer": "H2CO3"
+    },
+    {
+        "question": "What is the chemical formula for sulfur hexafluoride?",
+        "options": ["SF6", "SOF2", "SO2F2", "SO2"],
+        "answer": "SF6"
+    },
+    {
+        "question": "What is the chemical formula for hydrogen sulfide?",
+        "options": ["H2S", "HS", "H2SO4", "H2SO3"],
+        "answer": "H2S"
+    },
+    {
+        "question": "What is the chemical formula for hydrofluoric acid?",
+        "options": ["HF", "H2F", "H2O", "HOH"],
+        "answer": "HF"
+    },
+    {
+        "question": "What is the chemical formula for hydrobromic acid?",
+        "options": ["HBr", "H2Br", "HBrO3", "HOBr"],
+        "answer": "HBr"
+    },
+    {
+        "question": "What is the chemical formula for hydroiodic acid?",
+        "options": ["HI", "H2I", "HIO3", "HOI"],
+        "answer": "HI"
+    },
+    {
+        "question": "What is the chemical formula for phosphoric acid?",
+        "options": ["H3PO4", "HPO4", "PO4", "H2PO3"],
+        "answer": "H3PO4"
+    },
+    {
+        "question": "What is the chemical formula for phosphorus pentoxide?",
+        "options": ["P2O5", "PO2", "PO5", "P3O"],
+        "answer": "P2O5"
+    },
+    {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "options": ["H2SO4", "HSO4", "SO4", "H2S"],
+        "answer": "H2SO4"
+    },
+    {
+        "question": "What is the chemical formula for sulfur hexafluoride?",
+        "options": ["SF6", "SOF2", "SO2F2", "SO2"],
+        "answer": "SF6"
+    },
+    {
+        "question": "What is the chemical formula for sodium bicarbonate?",
+        "options": ["NaHCO3", "Na2CO3", "NaOH", "NaCl"],
+        "answer": "NaHCO3"
+    },
+    {
+        "question": "What is the chemical formula for calcium carbonate?",
+        "options": ["CaCO3", "Ca(OH)2", "CaO", "CaCl2"],
+        "answer": "CaCO3"
+    },
+    {
+        "question": "What is the chemical formula for potassium chloride?",
+        "options": ["KCl", "K2Cl", "KCl2", "K2C"],
+        "answer": "KCl"
+    },
+    {
+        "question": "What is the chemical formula for sodium chloride?",
+        "options": ["NaCl", "Na2Cl", "NaCl2", "SNaCl"],
+        "answer": "NaCl"
+    },
+    {
+        "question": "What is the chemical formula for magnesium sulfate?",
+        "options": ["MgSO4", "MgS", "MgSO3", "Mg2SO4"],
+        "answer": "MgSO4"
+    },
+    {
+        "question": "What is the chemical formula for aluminum oxide?",
+        "options": ["Al2O3", "AlO", "Al3O", "Al2O"],
+        "answer": "Al2O3"
+    },
+    {
+        "question": "What is the chemical formula for sodium hydroxide?",
+        "options": ["NaOH", "Na2OH", "HNaO", "Na2O"],
+        "answer": "NaOH"
+    },
+    {
+        "question": "What is the chemical formula for potassium hydroxide?",
+        "options": ["KOH", "K2OH", "HKO", "K2O"],
+        "answer": "KOH"
+    },
+    {
+        "question": "What is the chemical formula for calcium hydroxide?",
+        "options": ["Ca(OH)2", "CaOH", "Ca2OH", "H2CaO2"],
+        "answer": "Ca(OH)2"
+    },
+    {
+        "question": "What is the chemical formula for sodium phosphate?",
+        "options": ["Na3PO4", "NaPO4", "Na2PO4", "NaHPO4"],
+        "answer": "Na3PO4"
+    },
+    {
+        "question": "What is the chemical formula for potassium nitrate?",
+        "options": ["KNO3", "KN2O", "K2NO3", "KNO2"],
+        "answer": "KNO3"
+    },
+    {
+        "question": "What is the chemical formula for sodium nitrate?",
+        "options": ["NaNO3", "Na2NO3", "NaN2O3", "NaNO2", "NaNO"],
+        "answer": "NaNO3"
+    },
+    {
+        "question": "What is the chemical formula for potassium sulfate?",
+        "options": ["K2SO4", "KSO4", "K2S", "KS"],
+        "answer": "K2SO4"
+    },
+    {
+        "question": "What is the chemical formula for sodium sulfate?",
+        "options": ["Na2SO4", "NaSO4", "Na2S", "NaS"],
+        "answer": "Na2SO4"
+    },
+    {
+        "question": "What is the chemical formula for magnesium hydroxide?",
+        "options": ["Mg(OH)2", "MgOH", "Mg2OH", "H2MgO2"],
+        "answer": "Mg(OH)2"
+    },
+    {
+        "question": "What is the chemical formula for calcium carbonate?",
+        "options": ["CaCO3", "Ca(OH)2", "CaO", "CaCl2"],
+        "answer": "CaCO3"
+    },
+    {
+        "question": "What is the chemical formula for aluminum hydroxide?",
+        "options": ["Al(OH)3", "AlOH3", "Al2OH3", "H3AlO3"],
+        "answer": "Al(OH)3"
+    },
+    {
+        "question": "What is the chemical formula for potassium carbonate?",
+        "options": ["K2CO3", "KCO3", "K2C", "KC"],
+        "answer": "K2CO3"
+    },
+    {
+        "question": "What is the chemical formula for sodium bicarbonate?",
+        "options": ["NaHCO3", "Na2CO3", "NaOH", "NaCl"],
+        "answer": "NaHCO3"
+    },
+    {
+        "question": "What is the chemical formula for calcium hydroxide?",
+        "options": ["Ca(OH)2", "CaOH2", "Ca2OH2", "H2CaO2"],
+        "answer": "Ca(OH)2"
+    },
+    {
+        "question": "What is the chemical formula for sodium chloride?",
+        "options": ["NaCl", "Na2Cl", "NaCl2", "SNaCl"],
+        "answer": "NaCl"
+    },
+    {
+        "question": "What is the chemical formula for potassium chloride?",
+        "options": ["KCl", "K2Cl", "KCl2", "K2C"],
+        "answer": "KCl"
+    },
+    {
+        "question": "What is the chemical formula for magnesium sulfate?",
+        "options": ["MgSO4", "MgS", "MgSO3", "Mg2SO4"],
+        "answer": "MgSO4"
+    },
+    {
+        "question": "What is the chemical formula for aluminum sulfate?",
+        "options": ["Al2(SO4)3", "AlSO4", "Al(SO4)2", "Al2(SO4)2"],
+        "answer": "Al2(SO4)3"
+    },
+    {
+        "question": "What is the chemical formula for potassium sulfate?",
+        "options": ["K2SO4", "KSO4", "K2S", "KS"],
+        "answer": "K2SO4"
+    },
+    {
+        "question": "What is the chemical formula for sodium sulfate?",
+        "options": ["Na2SO4", "NaSO4", "Na2S", "NaS"],
+        "answer": "Na2SO4"
+    },
+    {
+        "question": "What is the chemical formula for magnesium hydroxide?",
+        "options": ["Mg(OH)2", "MgOH", "Mg2OH", "H2MgO2"],
+        "answer": "Mg(OH)2"
+    },
+    {
+        "question": "What is the chemical formula for calcium carbonate?",
+        "options": ["CaCO3", "Ca(OH)2", "CaO", "CaCl2"],
+        "answer": "CaCO3"
+    },
+    {
+        "question": "What is the chemical formula for aluminum hydroxide?",
+        "options": ["Al(OH)3", "AlOH3", "Al2OH3", "H3AlO3"],
+        "answer": "Al(OH)3"
+    },
+    {
+        "question": "What is the chemical formula for potassium carbonate?",
+        "options": ["K2CO3", "KCO3", "K2C", "KC"],
+        "answer": "K2CO3"
+    },
+    {
+        "question": "What is the chemical formula for sodium bicarbonate?",
+        "options": ["NaHCO3", "Na2CO3", "NaOH", "NaCl"],
+        "answer": "NaHCO3"
+    },
+    {
+        "question": "What is the chemical formula for calcium hydroxide?",
+        "options": ["Ca(OH)2", "CaOH2", "Ca2OH2", "H2CaO2"],
+        "answer": "Ca(OH)2"
+    },
+    {
+        "question": "What is the chemical formula for sodium chloride?",
+        "options": ["NaCl", "Na2Cl", "NaCl2", "SNaCl"],
+        "answer": "NaCl"
+    },
+    {
+        "question": "What is the chemical formula for potassium chloride?",
+        "options": ["KCl", "K2Cl", "KCl2", "K2C"],
+        "answer": "KCl"
+    },
+    {
+        "question": "What is the chemical formula for magnesium sulfate?",
+        "options": ["MgSO4", "MgS", "MgSO3", "Mg2SO4"],
+        "answer": "MgSO4"
+    },
+    {
+        "question": "What is the chemical formula for aluminum sulfate?",
+        "options": ["Al2(SO4)3", "AlSO4", "Al(SO4)2", "Al2(SO4)3"],
+        "answer": "Al2(SO4)3"
+    },
+    {
+        "question": "What is the chemical formula for calcium sulfate?",
+        "options": ["CaSO4", "Ca(SO4)2", "Ca2SO4", "Ca2(SO4)3"],
+        "answer": "CaSO4"
+    },
+    {
+        "question": "What is the chemical formula for iron(III) chloride?",
+        "options": ["FeCl3", "Fe3Cl", "FeCl", "Fe2Cl3"],
+        "answer": "FeCl3"
+    },
+    {
+        "question": "What is the chemical formula for copper(II) sulfate?",
+        "options": ["CuSO4", "Cu2SO4", "Cu(SO4)2", "Cu2(SO4)3"],
+        "answer": "CuSO4"
+    },
+    {
+        "question": "What is the chemical formula for potassium permanganate?",
+        "options": ["KMnO4", "K2MnO4", "K(MnO4)2", "KMn2O7"],
+        "answer": "KMnO4"
+    },
+    {
+        "question": "What is the chemical formula for sodium carbonate?",
+        "options": ["Na2CO3", "NaCO3", "Na(CO3)2", "Na2(CO3)3"],
+        "answer": "Na2CO3"
+    },
+    {
+        "question": "What is the chemical formula for hydrogen sulfide?",
+        "options": ["H2S", "HS", "H2SO4", "H2SO3"],
+        "answer": "H2S"
+    },
+    {
+        "question": "What is the chemical formula for hydrofluoric acid?",
+        "options": ["HF", "H2F", "H2O", "HOH"],
+        "answer": "HF"
+    },
+    {
+        "question": "What is the chemical formula for hydrobromic acid?",
+        "options": ["HBr", "H2Br", "HBrO3", "HOBr"],
+        "answer": "HBr"
+    },
+    {
+        "question": "What is the chemical formula for hydroiodic acid?",
+        "options": ["HI", "H2I", "HIO3", "HOI"],
+        "answer": "HI"
+    }
+    ]
+}
+  

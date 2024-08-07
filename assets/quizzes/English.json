@@ -1,0 +1,231 @@
+{
+    "subject": "English",
+    "quizzes": [
+      {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "Jane Austen", "Mark Twain", "Charles Dickens"],
+        "answer": "Harper Lee"
+      },
+      {
+        "question": "In Shakespeare's play 'Romeo and Juliet', which family does Romeo belong to?",
+        "options": ["Montague", "Capulet", "Borgia", "Medici"],
+        "answer": "Montague"
+      },
+      {
+        "question": "What is the plural form of 'child'?",
+        "options": ["Children", "Childs", "Childes", "Child's"],
+        "answer": "Children"
+      },
+      {
+        "question": "Who wrote the famous poem 'The Raven'?",
+        "options": ["Edgar Allan Poe", "Emily Dickinson", "Robert Frost", "Walt Whitman"],
+        "answer": "Edgar Allan Poe"
+      },
+      {
+        "question": "Which literary device is used to compare two unlike things without using 'like' or 'as'?",
+        "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+        "answer": "Metaphor"
+      },
+      {
+        "question": "Who wrote the novel '1984'?",
+        "options": ["George Orwell", "Ernest Hemingway", "J.K. Rowling", "F. Scott Fitzgerald"],
+        "answer": "George Orwell"
+      },
+      {
+        "question": "What is the literary term for a play on words, often with a humorous effect?",
+        "options": ["Pun", "Metaphor", "Simile", "Hyperbole"],
+        "answer": "Pun"
+      },
+      {
+        "question": "In which Shakespearean play does the character Ophelia appear?",
+        "options": ["Hamlet", "Macbeth", "Romeo and Juliet", "Othello"],
+        "answer": "Hamlet"
+      },
+      {
+        "question": "What is the name of the fictional detective created by Arthur Conan Doyle?",
+        "options": ["Sherlock Holmes", "Hercule Poirot", "Miss Marple", "Philip Marlowe"],
+        "answer": "Sherlock Holmes"
+      },
+      {
+        "question": "Who wrote the epic poem 'Paradise Lost'?",
+        "options": ["John Milton", "William Wordsworth", "Samuel Taylor Coleridge", "Percy Bysshe Shelley"],
+        "answer": "John Milton"
+      },
+      {
+        "question": "What is the term for a reference to a well-known person, place, event, or work of literature?",
+        "options": ["Allusion", "Allegory", "Anecdote", "Analogy"],
+        "answer": "Allusion"
+      },
+      {
+        "question": "Which literary work features the characters Scout, Atticus Finch, and Boo Radley?",
+        "options": ["To Kill a Mockingbird", "The Great Gatsby", "The Catcher in the Rye", "Lord of the Flies"],
+        "answer": "To Kill a Mockingbird"
+      },
+      {
+        "question": "Who wrote the poem 'The Waste Land'?",
+        "options": ["T.S. Eliot", "Robert Frost", "Sylvia Plath", "Langston Hughes"],
+        "answer": "T.S. Eliot"
+      },
+      {
+        "question": "What is the term for a long narrative poem, typically one derived from ancient oral tradition?",
+        "options": ["Epic", "Ballad", "Sonnet", "Haiku"],
+        "answer": "Epic"
+      },
+      {
+        "question": "Which literary device is used to give human characteristics to non-human entities?",
+        "options": ["Personification", "Metaphor", "Simile", "Hyperbole"],
+        "answer": "Personification"
+      },
+      {
+        "question": "Who wrote the novel 'Pride and Prejudice'?",
+        "options": ["Jane Austen", "Emily Brontë", "Charlotte Brontë", "Charles Dickens"],
+        "answer": "Jane Austen"
+      },
+      {
+        "question": "What is the term for a brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance?",
+        "options": ["Allusion", "Metaphor", "Simile", "Irony"],
+        "answer": "Allusion"
+      },
+      {
+        "question": "In the poem 'The Road Not Taken' by Robert Frost, what is the speaker referring to as 'the road not taken'?",
+        "options": ["A choice or decision in life", "A literal road", "A metaphor for destiny", "A dream"],
+        "answer": "A choice or decision in life"
+      },
+      {
+        "question": "Who is the author of the Harry Potter series?",
+        "options": ["J.K. Rowling", "J.R.R. Tolkien", "C.S. Lewis", "Stephenie Meyer"],
+        "answer": "J.K. Rowling"
+      },
+      {
+        "question": "What is the literary term for the repetition of consonant sounds at the beginning of words?",
+        "options": ["Alliteration", "Assonance", "Consonance", "Onomatopoeia"],
+        "answer": "Alliteration"
+      },
+      {
+        "question": "Which literary work begins with the line 'Call me Ishmael'?",
+        "options": ["Moby-Dick", "The Great Gatsby", "Jane Eyre", "Wuthering Heights"],
+        "answer": "Moby-Dick"
+      },
+      {
+        "question": "What is the term for a play on words that creates humor by using two different meanings of the same word or two similar-sounding words?",
+        "options": ["Homonym", "Ambiguity", "Paradox", "Double entendre"],
+        "answer": "Double entendre"
+      },
+      {
+        "question": "Who is the author of 'The Catcher in the Rye'?",
+        "options": ["J.D. Salinger", "F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"],
+        "answer": "J.D. Salinger"
+      },
+      {
+        "question": "What is the term for a poem consisting of fourteen lines, usually in iambic pentameter?",
+        "options": ["Sonnet", "Haiku", "Limerick", "Elegy"],
+        "answer": "Sonnet"
+      },
+      {
+        "question": "Who wrote the novel 'Frankenstein'?",
+        "options": ["Mary Shelley", "Bram Stoker", "H.G. Wells", "Edgar Allan Poe"],
+        "answer": "Mary Shelley"
+      },
+      {
+        "question": "Who is the author of the novel 'The Great Gatsby'?",
+        "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain", "Charles Dickens"],
+        "answer": "F. Scott Fitzgerald"
+      },
+      {
+        "question": "What literary term refers to the central idea or message of a literary work?",
+        "options": ["Theme", "Plot", "Conflict", "Characterization"],
+        "answer": "Theme"
+      },
+      {
+        "question": "Which novel by Harper Lee explores themes of racial injustice and moral growth in the American South?",
+        "options": ["To Kill a Mockingbird", "The Catcher in the Rye", "Lord of the Flies", "Of Mice and Men"],
+        "answer": "To Kill a Mockingbird"
+      },
+      {
+        "question": "Who is the protagonist of the novel 'The Catcher in the Rye'?",
+        "options": ["Holden Caulfield", "Jay Gatsby", "Scout Finch", "Atticus Finch"],
+        "answer": "Holden Caulfield"
+      },
+      {
+        "question": "What is the term for the use of hints or clues to suggest events that will occur later in the story?",
+        "options": ["Foreshadowing", "Flashback", "Irony", "Symbolism"],
+        "answer": "Foreshadowing"
+      },
+      {
+        "question": "Who wrote the novel 'Jane Eyre'?",
+        "options": ["Charlotte Brontë", "Emily Brontë", "Jane Austen", "Louisa May Alcott"],
+        "answer": "Charlotte Brontë"
+      },
+      {
+        "question": "What literary term refers to a figure of speech in which a word or phrase is applied to an object or action to which it does not literally apply?",
+        "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+        "answer": "Metaphor"
+      },
+      {
+        "question": "Which novel features the characters Elizabeth Bennet and Mr. Darcy?",
+        "options": ["Pride and Prejudice", "Sense and Sensibility", "Emma", "Persuasion"],
+        "answer": "Pride and Prejudice"
+      },
+      {
+        "question": "Who is the author of the novel 'Wuthering Heights'?",
+        "options": ["Emily Brontë", "Charlotte Brontë", "Jane Austen", "Mary Shelley"],
+        "answer": "Emily Brontë"
+      },
+      {
+        "question": "What literary term refers to the perspective from which a story is told?",
+        "options": ["Point of View", "Setting", "Plot", "Theme"],
+        "answer": "Point of View"
+      },
+      {
+        "question": "Who wrote the novel 'Moby-Dick'?",
+        "options": ["Herman Melville", "Nathaniel Hawthorne", "Mark Twain", "Edgar Allan Poe"],
+        "answer": "Herman Melville"
+      },
+      {
+        "question": "What literary term refers to the emotional atmosphere of a literary work?",
+        "options": ["Mood", "Tone", "Imagery", "Symbolism"],
+        "answer": "Mood"
+      },
+      {
+        "question": "Which novel features the characters Jay Gatsby and Daisy Buchanan?",
+        "options": ["The Great Gatsby", "The Catcher in the Rye", "1984", "To Kill a Mockingbird"],
+        "answer": "The Great Gatsby"
+      },
+      {
+        "question": "Who is the author of the novel 'Brave New World'?",
+        "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+        "answer": "Aldous Huxley"
+      },
+      {
+        "question": "What literary term refers to the use of words that imitate the sounds associated with the objects or actions they refer to?",
+        "options": ["Onomatopoeia", "Alliteration", "Assonance", "Consonance"],
+        "answer": "Onomatopoeia"
+      },
+      {
+        "question": "Who wrote the novel 'The Picture of Dorian Gray'?",
+        "options": ["Oscar Wilde", "Virginia Woolf", "James Joyce", "D.H. Lawrence"],
+        "answer": "Oscar Wilde"
+      },
+      {
+        "question": "What literary term refers to the repetition of vowel sounds within words?",
+        "options": ["Assonance", "Alliteration", "Consonance", "Onomatopoeia"],
+        "answer": "Assonance"
+      },
+      {
+        "question": "Which novel features the characters Pip, Miss Havisham, and Estella?",
+        "options": ["Great Expectations", "Oliver Twist", "David Copperfield", "A Tale of Two Cities"],
+        "answer": "Great Expectations"
+      },
+      {
+        "question": "Who is the author of the novel 'The Grapes of Wrath'?",
+        "options": ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"],
+        "answer": "John Steinbeck"
+      },
+      {
+        "question": "What literary term refers to the use of humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices?",
+        "options": ["Satire", "Parody", "Allegory", "Irony"],
+        "answer": "Satire"
+      } 
+    ]
+  }
+  

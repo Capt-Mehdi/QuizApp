@@ -1,0 +1,331 @@
+{
+    "subject": "Geography",
+    "quizzes": [
+      {
+        "question": "Which continent is the largest by land area?",
+        "options": ["Asia", "Africa", "North America", "South America"],
+        "answer": "Asia"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "Which ocean is the largest and deepest?",
+        "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+        "answer": "Mount Everest"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Rome", "Berlin"],
+        "answer": "Paris"
+      },
+      {
+        "question": "What is the capital city of France?",
+        "options": ["Paris", "London", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which continent is the Sahara Desert located in?",
+        "options": ["Africa", "Asia", "South America", "Australia"],
+        "answer": "Africa"
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "Which river is the longest in the world?",
+        "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+      },
+      {
+        "question": "Which mountain range stretches across several countries in South America?",
+        "options": ["Andes", "Himalayas", "Rocky Mountains", "Alps"],
+        "answer": "Andes"
+      },
+      {
+        "question": "What is the capital city of Japan?",
+        "options": ["Tokyo", "Beijing", "Seoul", "Bangkok"],
+        "answer": "Tokyo"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["Japan", "China", "India", "South Korea"],
+        "answer": "Japan"
+      },
+      {
+        "question": "What is the highest mountain peak in the world?",
+        "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+        "answer": "Mount Everest"
+      },
+      {
+        "question": "Which desert is the largest hot desert in the world?",
+        "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+        "answer": "Sahara Desert"
+      },
+      {
+        "question": "What is the capital city of Australia?",
+        "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "Which country is the largest by land area?",
+        "options": ["Russia", "Canada", "China", "United States"],
+        "answer": "Russia"
+      },
+      {
+        "question": "What is the capital city of Brazil?",
+        "options": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
+        "answer": "Brasília"
+      },
+      {
+        "question": "Which river flows through the Grand Canyon in the United States?",
+        "options": ["Colorado River", "Mississippi River", "Amazon River", "Nile River"],
+        "answer": "Colorado River"
+      },
+      {
+        "question": "Which continent is known as the 'Land Down Under'?",
+        "options": ["Australia", "Africa", "South America", "Europe"],
+        "answer": "Australia"
+      },
+      {
+        "question": "What is the highest waterfall in the world?",
+        "options": ["Angel Falls", "Niagara Falls", "Victoria Falls", "Iguazu Falls"],
+        "answer": "Angel Falls"
+      },
+      {
+        "question": "Which city is located at the mouth of the Amazon River?",
+        "options": ["Belém", "Manaus", "São Paulo", "Rio de Janeiro"],
+        "answer": "Belém"
+      },
+      {
+        "question": "What is the largest island in the Mediterranean Sea?",
+        "options": ["Sicily", "Cyprus", "Crete", "Sardinia"],
+        "answer": "Sicily"
+      },
+      {
+        "question": "Which country is located on the Iberian Peninsula?",
+        "options": ["Spain", "Italy", "Greece", "Turkey"],
+        "answer": "Spain"
+      },
+      {
+        "question": "What is the capital city of Egypt?",
+        "options": ["Cairo", "Alexandria", "Luxor", "Aswan"],
+        "answer": "Cairo"
+      },
+      {
+        "question": "Which ocean is the largest by surface area?",
+        "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["Japan", "China", "India", "South Korea"],
+        "answer": "Japan"
+      },
+      {
+        "question": "What is the capital city of South Korea?",
+        "options": ["Seoul", "Tokyo", "Beijing", "Pyongyang"],
+        "answer": "Seoul"
+      },
+      {
+        "question": "Which river is the longest in Europe?",
+        "options": ["Volga", "Danube", "Rhine", "Thames"],
+        "answer": "Volga"
+      },
+      {
+        "question": "What is the largest island in the Caribbean Sea?",
+        "options": ["Cuba", "Hispaniola", "Jamaica", "Puerto Rico"],
+        "answer": "Cuba"
+      },
+      {
+        "question": "Which country is known for its fjords, aurora borealis, and midnight sun?",
+        "options": ["Norway", "Sweden", "Finland", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "What is the capital city of Argentina?",
+        "options": ["Buenos Aires", "Santiago", "Montevideo", "Brasília"],
+        "answer": "Buenos Aires"
+      },
+      {
+        "question": "Which mountain range stretches across the western edge of South America?",
+        "options": ["Andes", "Rocky Mountains", "Himalayas", "Alps"],
+        "answer": "Andes"
+      },
+      {
+        "question": "What is the largest desert in the world after Antarctica?",
+        "options": ["Arabian Desert", "Gobi Desert", "Kalahari Desert", "Sahara Desert"],
+        "answer": "Arabian Desert"
+      },
+      {
+        "question": "Which country is known as the 'Pearl of Africa'?",
+        "options": ["Uganda", "Kenya", "Tanzania", "Rwanda"],
+        "answer": "Uganda"
+      },
+      {
+        "question": "What is the capital city of Canada?",
+        "options": ["Ottawa", "Toronto", "Montreal", "Vancouver"],
+        "answer": "Ottawa"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "options": ["Norway", "Finland", "Sweden", "Iceland"],
+        "answer": "Norway"
+      },
+      {
+        "question": "What is the capital city of New Zealand?",
+        "options": ["Wellington", "Auckland", "Christchurch", "Sydney"],
+        "answer": "Wellington"
+      },
+      {
+        "question": "Which river is the longest in Africa?",
+        "options": ["Nile", "Congo", "Niger", "Zambezi"],
+        "answer": "Nile"
+      },
+      {
+        "question": "What is the largest lake in Africa?",
+        "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+        "answer": "Lake Victoria"
+      },
+      {
+        "question": "Which country is known for the ancient city of Petra?",
+        "options": ["Jordan", "Egypt", "Syria", "Lebanon"],
+        "answer": "Jordan"
+      },
+      {
+        "question": "What is the highest mountain peak in North America?",
+        "options": ["Denali (Mount McKinley)", "Mount Logan", "Mount Saint Elias", "Mount Rainier"],
+        "answer": "Denali (Mount McKinley)"
+      },
+      {
+        "question": "Which desert is located in the southwestern United States and northern Mexico?",
+        "options": ["Sonoran Desert", "Mojave Desert", "Great Basin Desert", "Chihuahuan Desert"],
+        "answer": "Sonoran Desert"
+      },
+      {
+        "question": "What is the capital city of Chile?",
+        "options": ["Santiago", "Buenos Aires", "Lima", "Brasília"],
+        "answer": "Santiago"
+      },
+      {
+        "question": "Which country is known for its tulip fields and windmills?",
+        "options": ["Netherlands", "Belgium", "Switzerland", "Denmark"],
+        "answer": "Netherlands"
+      },
+      {
+        "question": "What is the largest island in the Mediterranean Sea?",
+        "options": ["Sicily", "Corsica", "Sardinia", "Cyprus"],
+        "answer": "Sicily"
+      },
+      {
+        "question": "What is the capital city of Thailand?",
+        "options": ["Bangkok", "Hanoi", "Phnom Penh", "Kuala Lumpur"],
+        "answer": "Bangkok"
+      },
+      {
+        "question": "Which mountain range runs along the border between Italy and Switzerland?",
+        "options": ["The Alps", "The Pyrenees", "The Apennines", "The Dolomites"],
+        "answer": "The Alps"
+      },
+      {
+        "question": "Which country is known for the famous rock formation called Ayers Rock or Uluru?",
+        "options": ["Australia", "New Zealand", "Canada", "South Africa"],
+        "answer": "Australia"
+      },
+      {
+        "question": "What is the capital city of South Africa?",
+        "options": ["Pretoria", "Cape Town", "Johannesburg", "Bloemfontein"],
+        "answer": "Pretoria"
+      },
+      {
+        "question": "Which river is the longest in South America?",
+        "options": ["Amazon", "Nile", "Mississippi", "Paraná"],
+        "answer": "Amazon"
+      },
+      {
+        "question": "Which country is known as the 'Land of Fire and Ice'?",
+        "options": ["Iceland", "Greenland", "Norway", "New Zealand"],
+        "answer": "Iceland"
+      },
+      {
+        "question": "What is the largest island country in the world?",
+        "options": ["Indonesia", "Japan", "Philippines", "New Zealand"],
+        "answer": "Indonesia"
+      },
+      {
+        "question": "Which city is located on two continents?",
+        "options": ["Istanbul", "Cairo", "Moscow", "Rome"],
+        "answer": "Istanbul"
+      },
+      {
+        "question": "What is the capital city of Argentina?",
+        "options": ["Buenos Aires", "Santiago", "Montevideo", "Brasília"],
+        "answer": "Buenos Aires"
+      },
+      {
+        "question": "Which country is known for its fjords and Viking history?",
+        "options": ["Norway", "Sweden", "Denmark", "Finland"],
+        "answer": "Norway"
+      },
+      {
+        "question": "What is the capital city of Spain?",
+        "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+        "answer": "Madrid"
+      },
+      {
+        "question": "Which country is known for the famous archaeological site Machu Picchu?",
+        "options": ["Peru", "Mexico", "Brazil", "Colombia"],
+        "answer": "Peru"
+      },
+      {
+        "question": "What is the largest island in the United States?",
+        "options": ["Hawaii (Big Island)", "Long Island", "Puerto Rico", "Santa Catalina Island"],
+        "answer": "Hawaii (Big Island)"
+      },
+      {
+        "question": "Which river is the longest in Asia?",
+        "options": ["Yangtze", "Yellow River (Huang He)", "Ganges", "Mekong"],
+        "answer": "Yangtze"
+      },
+      {
+        "question": "What is the capital city of Russia?",
+        "options": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg"],
+        "answer": "Moscow"
+      },
+      {
+        "question": "Which country is known for its colorful tulip fields?",
+        "options": ["Netherlands", "Belgium", "Denmark", "France"],
+        "answer": "Netherlands"
+      },
+      {
+        "question": "What is the largest country in Africa by land area?",
+        "options": ["Algeria", "Democratic Republic of the Congo", "Sudan", "Libya"],
+        "answer": "Algeria"
+      },
+      {
+        "question": "Which desert is located in the southwestern United States and northern Mexico?",
+        "options": ["Sonoran Desert", "Mojave Desert", "Great Basin Desert", "Chihuahuan Desert"],
+        "answer": "Sonoran Desert"
+      },
+      {
+        "question": "What is the highest mountain peak in South America?",
+        "options": ["Aconcagua", "Huascarán", "Mount Chimborazo", "Mount Illimani"],
+        "answer": "Aconcagua"
+      },
+      {
+        "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+        "options": ["Finland", "Sweden", "Norway", "Canada"],
+        "answer": "Finland"
+      }                                    
+    ]
+  }
+  

@@ -1,0 +1,232 @@
+{
+    "subject": "Arts",
+    "quizzes": [
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "Which artist is known for cutting off his own ear?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Salvador Dali"],
+        "answer": "Vincent van Gogh"
+      },
+      {
+        "question": "Who painted The Starry Night?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "answer": "Vincent van Gogh"
+      },
+      {
+        "question": "Which artist is famous for his 'Campbell's Soup Cans'?",
+        "options": ["Andy Warhol", "Jackson Pollock", "Mark Rothko", "Georgia O'Keeffe"],
+        "answer": "Andy Warhol"
+      },
+      {
+        "question": "Who sculpted the Statue of David?",
+        "options": ["Michelangelo", "Auguste Rodin", "Donatello", "Gian Lorenzo Bernini"],
+        "answer": "Michelangelo"
+      },
+      {
+        "question": "Who is known for painting the ceiling of the Sistine Chapel?",
+        "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Titian"],
+        "answer": "Michelangelo"
+      },
+      {
+        "question": "Which artist is associated with the melting clocks in 'The Persistence of Memory'?",
+        "options": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "answer": "Salvador Dali"
+      },
+      {
+        "question": "Who is considered the father of modern sculpture?",
+        "options": ["Auguste Rodin", "Michelangelo", "Pablo Picasso", "Donatello"],
+        "answer": "Auguste Rodin"
+      },
+      {
+        "question": "Which artist is famous for his 'Water Lilies' series?",
+        "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Edvard Munch"],
+        "answer": "Claude Monet"
+      },
+      {
+        "question": "Who painted 'The Persistence of Memory'?",
+        "options": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "answer": "Salvador Dali"
+      },
+      {
+        "question": "Who created 'The Gates of Hell' sculpture?",
+        "options": ["Auguste Rodin", "Michelangelo", "Pablo Picasso", "Donatello"],
+        "answer": "Auguste Rodin"
+      },
+      {
+        "question": "Which artist is known for his 'Birth of Venus' painting?",
+        "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Titian"],
+        "answer": "Sandro Botticelli"
+      },
+      {
+        "question": "Who painted 'Guernica'?",
+        "options": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dali", "Claude Monet"],
+        "answer": "Pablo Picasso"
+      },
+      {
+        "question": "Which artist created the artwork 'The Son of Man'?",
+        "options": ["Rene Magritte", "Salvador Dali", "Pablo Picasso", "Vincent van Gogh"],
+        "answer": "Rene Magritte"
+      },
+      {
+        "question": "Who is known for the painting 'The Last Supper'?",
+        "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Titian"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "Which artist is associated with the painting 'Girl with a Pearl Earring'?",
+        "options": ["Johannes Vermeer", "Vincent van Gogh", "Pablo Picasso", "Salvador Dali"],
+        "answer": "Johannes Vermeer"
+      },
+      {
+        "question": "Who is known for the sculpture 'The Thinker'?",
+        "options": ["Auguste Rodin", "Michelangelo", "Pablo Picasso", "Donatello"],
+        "answer": "Auguste Rodin"
+      },
+      {
+        "question": "Which artist is famous for his 'The Birth of Venus' painting?",
+        "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Titian"],
+        "answer": "Sandro Botticelli"
+      },
+      {
+        "question": "Who created the artwork 'The Persistence of Memory'?",
+        "options": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "answer": "Salvador Dali"
+      },
+      {
+        "question": "Who painted 'The Starry Night'?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "answer": "Vincent van Gogh"
+      },
+      {
+        "question": "Which artist is known for his 'Campbell's Soup Cans'?",
+        "options": ["Andy Warhol", "Jackson Pollock", "Mark Rothko", "Georgia O'Keeffe"],
+        "answer": "Andy Warhol"
+      },
+      {
+        "question": "Who sculpted the Statue of David?",
+        "options": ["Michelangelo", "Auguste Rodin", "Donatello", "Gian Lorenzo Bernini"],
+        "answer": "Michelangelo"
+      },
+      {
+        "question": "Who is known for painting the ceiling of the Sistine Chapel?",
+        "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Titian"],
+        "answer": "Michelangelo"
+      },
+      {
+        "question": "Which artist is associated with the melting clocks in 'The Persistence of Memory'?",
+        "options": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "answer": "Salvador Dali"
+      },
+      {
+        "question": "Who is considered the father of modern sculpture?",
+        "options": ["Auguste Rodin", "Michelangelo", "Pablo Picasso", "Donatello"],
+        "answer": "Auguste Rodin"
+      },
+      {
+        "question": "Which artist is famous for his 'Water Lilies' series?",
+        "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Edvard Munch"],
+        "answer": "Claude Monet"
+    },
+    {
+      "question": "Who painted 'The Persistence of Memory'?",
+      "options": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+      "answer": "Salvador Dali"
+    },
+    {
+      "question": "Who created 'The Gates of Hell' sculpture?",
+      "options": ["Auguste Rodin", "Michelangelo", "Pablo Picasso", "Donatello"],
+      "answer": "Auguste Rodin"
+    },
+    {
+      "question": "Which artist is known for his 'Birth of Venus' painting?",
+      "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Titian"],
+      "answer": "Sandro Botticelli"
+    },
+    {
+      "question": "Who painted 'Guernica'?",
+      "options": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dali", "Claude Monet"],
+      "answer": "Pablo Picasso"
+    },
+    {
+      "question": "Which artist created the artwork 'The Son of Man'?",
+      "options": ["Rene Magritte", "Salvador Dali", "Pablo Picasso", "Vincent van Gogh"],
+      "answer": "Rene Magritte"
+    },
+    {
+      "question": "Who is known for the painting 'The Last Supper'?",
+      "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Titian"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which artist is associated with the painting 'Girl with a Pearl Earring'?",
+      "options": ["Johannes Vermeer", "Vincent van Gogh", "Pablo Picasso", "Salvador Dali"],
+      "answer": "Johannes Vermeer"
+    },
+    {
+      "question": "Who is known for the sculpture 'The Thinker'?",
+      "options": ["Auguste Rodin", "Michelangelo", "Pablo Picasso", "Donatello"],
+      "answer": "Auguste Rodin"
+    },
+    {
+      "question": "Which artist is famous for his 'The Birth of Venus' painting?",
+      "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Titian"],
+      "answer": "Sandro Botticelli"
+    },
+    {
+        "question": "Who painted 'The Birth of Venus'?",
+        "options": ["Sandro Botticelli", "Leonardo da Vinci", "Raphael", "Titian"],
+        "answer": "Sandro Botticelli"
+    },
+    {
+        "question": "Which artist is known for his 'Les Demoiselles d'Avignon' painting?",
+        "options": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dali", "Claude Monet"],
+        "answer": "Pablo Picasso"
+    },
+    {
+        "question": "Who created the sculpture 'The Thinker'?",
+        "options": ["Auguste Rodin", "Michelangelo", "Pablo Picasso", "Donatello"],
+        "answer": "Auguste Rodin"
+    },
+    {
+        "question": "Which artist painted 'The Last Supper'?",
+        "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Titian"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Who is known for the artwork 'The Persistence of Memory'?",
+        "options": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+        "answer": "Salvador Dali"
+    },
+    {
+        "question": "Who is the artist behind 'The Night Watch' painting?",
+        "options": ["Rembrandt", "Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"],
+        "answer": "Rembrandt"
+      },
+      {
+        "question": "Which artist is known for his sculpture 'David'?",
+        "options": ["Michelangelo", "Auguste Rodin", "Donatello", "Gian Lorenzo Bernini"],
+        "answer": "Michelangelo"
+      },
+      {
+        "question": "Who painted 'The Garden of Earthly Delights'?",
+        "options": ["Hieronymus Bosch", "Claude Monet", "Vincent van Gogh", "Salvador Dali"],
+        "answer": "Hieronymus Bosch"
+      },
+      {
+        "question": "Which artist is associated with the 'The Birth of Modernism' movement?",
+        "options": ["Édouard Manet", "Claude Monet", "Pierre-Auguste Renoir", "Paul Cézanne"],
+        "answer": "Édouard Manet"
+      },
+      {
+        "question": "Who is known for the sculpture 'The Kiss'?",
+        "options": ["Auguste Rodin", "Michelangelo", "Pablo Picasso", "Donatello"],
+        "answer": "Auguste Rodin"
+      }      
+  ]
+}
+
+  

@@ -1,0 +1,231 @@
+{
+    "subject": "Chemistry",
+    "quizzes": [
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "G", "Go"],
+        "answer": "Au"
+      },
+      {
+        "question": "Which element has the chemical symbol 'Na'?",
+        "options": ["Sodium", "Nitrogen", "Nickel", "Neon"],
+        "answer": "Sodium"
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "O2", "H2SO4"],
+        "answer": "H2O"
+      },
+      {
+        "question": "What is the process of a substance changing from a solid directly to a gas called?",
+        "options": ["Sublimation", "Evaporation", "Condensation", "Freezing"],
+        "answer": "Sublimation"
+      },
+      {
+        "question": "What is the pH value of pure water?",
+        "options": ["7", "8", "6", "9"],
+        "answer": "7"
+      },
+      {
+        "question": "What is the function of the mitochondria in a cell?",
+        "options": ["Produce energy (ATP)", "Store genetic information", "Protein synthesis", "Break down waste products"],
+        "answer": "Produce energy (ATP)"
+      },
+      {
+        "question": "What is the name of the process by which plants convert light energy into chemical energy?",
+        "options": ["Photosynthesis", "Respiration", "Fermentation", "Glycolysis"],
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "Which of the following is NOT a type of blood cell?",
+        "options": ["Epithelial cell", "Red blood cell", "White blood cell", "Platelet"],
+        "answer": "Epithelial cell"
+      },
+      {
+        "question": "What is the main function of the respiratory system?",
+        "options": ["Gas exchange (oxygen and carbon dioxide)", "Digestion", "Circulation", "Reproduction"],
+        "answer": "Gas exchange (oxygen and carbon dioxide)"
+      },
+      {
+        "question": "Which of the following is NOT a function of the liver?",
+        "options": ["Produce bile", "Detoxify harmful substances", "Regulate blood sugar levels", "Produce insulin"],
+        "answer": "Produce insulin"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Skin", "Liver", "Heart", "Lungs"],
+        "answer": "Skin"
+      },
+      {
+        "question": "Which part of the human brain is responsible for coordinating movement and balance?",
+        "options": ["Cerebellum", "Cerebrum", "Brainstem", "Hypothalamus"],
+        "answer": "Cerebellum"
+      },
+      {
+        "question": "What is the process by which cells replicate and divide to produce new cells?",
+        "options": ["Mitosis", "Meiosis", "Fertilization", "Differentiation"],
+        "answer": "Mitosis"
+      },
+      {
+        "question": "Which of the following is NOT a function of the skeletal system?",
+        "options": ["Produce blood cells", "Provide support and structure", "Store minerals", "Produce digestive enzymes"],
+        "answer": "Produce digestive enzymes"
+      },
+      {
+        "question": "What is the name of the fluid that surrounds and cushions the brain and spinal cord?",
+        "options": ["Cerebrospinal fluid", "Synovial fluid", "Lymph", "Serum"],
+        "answer": "Cerebrospinal fluid"
+      },
+      {
+        "question": "What is the process by which plants release water vapor into the atmosphere?",
+        "options": ["Transpiration", "Photosynthesis", "Respiration", "Fermentation"],
+        "answer": "Transpiration"
+      },
+      {
+        "question": "Which of the following is NOT a type of tissue in the human body?",
+        "options": ["Plasma", "Epithelial", "Connective", "Muscle"],
+        "answer": "Plasma"
+      },
+      {
+        "question": "What is the name of the pigment that gives plants their green color and is involved in photosynthesis?",
+        "options": ["Chlorophyll", "Carotene", "Melanin", "Hemoglobin"],
+        "answer": "Chlorophyll"
+      },
+      {
+        "question": "Which of the following is a function of the nervous system?",
+        "options": ["Transmit and process information", "Produce hormones", "Filter blood", "Break down food"],
+        "answer": "Transmit and process information"
+      },
+      {
+        "question": "What is the name of the structure that connects the mouth to the stomach and is responsible for swallowing food?",
+        "options": ["Esophagus", "Trachea", "Bronchi", "Larynx"],
+        "answer": "Esophagus"
+      },
+      {
+        "question": "Which of the following is a function of the kidneys?",
+        "options": ["Filter waste products from the blood", "Produce insulin", "Produce bile", "Digest food"],
+        "answer": "Filter waste products from the blood"
+      },
+      {
+        "question": "What is the name of the process by which organisms convert food into usable energy?",
+        "options": ["Cellular respiration", "Fermentation", "Photosynthesis", "Osmosis"],
+        "answer": "Cellular respiration"
+      },
+      {
+        "question": "Which of the following is a type of muscle tissue that is involuntary and found in the walls of internal organs?",
+        "options": ["Smooth muscle", "Skeletal muscle", "Cardiac muscle", "Striated muscle"],
+        "answer": "Smooth muscle"
+      },
+      {
+        "question": "What is the name of the organ that produces insulin and regulates blood sugar levels?",
+        "options": ["Pancreas", "Liver", "Gallbladder", "Spleen"],
+        "answer": "Pancreas"
+      },
+      {
+        "question": "Which of the following is a function of the endocrine system?",
+        "options": ["Regulate hormones", "Filter blood", "Produce bile", "Break down nutrients"],
+        "answer": "Regulate hormones"
+      },
+      {
+        "question": "What is the name of the process by which plants convert carbon dioxide and water into glucose and oxygen?",
+        "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "Which of the following is NOT a function of the circulatory system?",
+        "options": ["Produce hormones", "Transport nutrients", "Transport oxygen", "Remove waste"],
+        "answer": "Produce hormones"
+      },
+      {
+        "question": "What is the name of the pigment that gives blood its red color and is responsible for carrying oxygen?",
+        "options": ["Hemoglobin", "Chlorophyll", "Melanin", "Carotene"],
+        "answer": "Hemoglobin"
+      },
+      {
+        "question": "Which of the following is a function of the respiratory system?",
+        "options": ["Gas exchange (oxygen and carbon dioxide)", "Produce hormones", "Filter blood", "Produce bile"],
+        "answer": "Gas exchange (oxygen and carbon dioxide)"
+      },
+      {
+        "question": "What is the name of the valve that separates the left atrium from the left ventricle in the heart?",
+        "options": ["Mitral valve", "Tricuspid valve", "Aortic valve", "Pulmonary valve"],
+        "answer": "Mitral valve"
+      },
+      {
+        "question": "Which of the following is a function of the skeletal system?",
+        "options": ["Provide support and protection", "Produce bile", "Filter blood", "Transport nutrients"],
+        "answer": "Provide support and protection"
+      },
+      {
+        "question": "What is the name of the process by which food is broken down into smaller molecules that can be absorbed by the body?",
+        "options": ["Digestion", "Respiration", "Photosynthesis", "Fermentation"],
+        "answer": "Digestion"
+      },
+      {
+        "question": "Which of the following is NOT a component of the nervous system?",
+        "options": ["Pancreas", "Brain", "Spinal cord", "Nerves"],
+        "answer": "Pancreas"
+      },
+      {
+        "question": "What is the name of the structure that connects the kidneys to the bladder?",
+        "options": ["Ureter", "Urethra", "Bladder", "Renal artery"],
+        "answer": "Ureter"
+      },
+      {
+        "question": "Which of the following is a function of the immune system?",
+        "options": ["Defend against pathogens", "Produce bile", "Transport nutrients", "Filter blood"],
+        "answer": "Defend against pathogens"
+      },
+      {
+        "question": "What is the name of the process by which plants lose water vapor through small openings in their leaves?",
+        "options": ["Transpiration", "Photosynthesis", "Respiration", "Fermentation"],
+        "answer": "Transpiration"
+      },
+      {
+        "question": "Which of the following is NOT a function of the skeletal system?",
+        "options": ["Produce hormones", "Provide support and protection", "Store minerals", "Produce blood cells"],
+        "answer": "Produce hormones"
+      },
+      {
+        "question": "What is the name of the process by which cells take in nutrients and convert them into energy?",
+        "options": ["Cellular respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+        "answer": "Cellular respiration"
+      },
+      {
+        "question": "Which of the following is a function of the endocrine system?",
+        "options": ["Regulate hormones", "Filter blood", "Produce bile", "Break down nutrients"],
+        "answer": "Regulate hormones"
+      },
+      {
+        "question": "What is the name of the fluid that surrounds and cushions the brain and spinal cord?",
+        "options": ["Cerebrospinal fluid", "Synovial fluid", "Lymph", "Serum"],
+        "answer": "Cerebrospinal fluid"
+      },
+      {
+        "question": "Which of the following is a function of the circulatory system?",
+        "options": ["Transport nutrients", "Produce hormones", "Digest food", "Eliminate waste"],
+        "answer": "Transport nutrients"
+      },
+      {
+        "question": "What is the name of the process by which organisms convert food into energy without using oxygen?",
+        "options": ["Fermentation", "Cellular respiration", "Photosynthesis", "Transpiration"],
+        "answer": "Fermentation"
+      },
+      {
+        "question": "Which of the following is a function of the nervous system?",
+        "options": ["Transmit and process information", "Produce hormones", "Transport nutrients", "Regulate body temperature"],
+        "answer": "Transmit and process information"
+      },
+      {
+        "question": "What is the name of the structure that connects the mouth to the stomach?",
+        "options": ["Esophagus", "Trachea", "Bronchi", "Larynx"],
+        "answer": "Esophagus"
+      },
+      {
+        "question": "Which of the following is NOT a type of blood vessel?",
+        "options": ["Alveoli", "Artery", "Vein", "Capillary"],
+        "answer": "Alveoli"
+      }                  
+    ]
+  }
+  
